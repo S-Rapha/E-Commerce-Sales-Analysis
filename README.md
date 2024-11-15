@@ -43,11 +43,3 @@ The analysis result are summarized as follows:
 3. **Seasonal Promotions**: Offer discounts or promotions during off-peak months to maintain consistent sales.
 4. **Product Expansion**: Explore expanding Mobile Phones, Furnitures,and Accessories_Supplies in underperforming regions to boost sales.
 
-### 📂 Repository Contents
-
-- `Sales Analysis Dashboard.pbix`: 
-- `data/`: Folder for sample or mock data (if any).
-- `assets/`: Contains images and screenshots of the dashboard visualizations.
-- `reports/`: Stores summary reports or presentations, if applicable.
-
-
