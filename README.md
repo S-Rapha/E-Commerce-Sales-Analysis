@@ -45,13 +45,9 @@ The analysis result are summarized as follows:
 
 ### 📂 Repository Contents
 
-- `Sales Analysis Dashboard.pbix`: The Power BI file for this project.
+- `Sales Analysis Dashboard.pbix`: 
 - `data/`: Folder for sample or mock data (if any).
 - `assets/`: Contains images and screenshots of the dashboard visualizations.
 - `reports/`: Stores summary reports or presentations, if applicable.
 
-## 📫 Contact
 
-For any questions or feedback, please reach out to me via LinkedIn or GitHub.
-
-Thank you for visiting this project repository!
