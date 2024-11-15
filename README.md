@@ -4,6 +4,9 @@
 
 The **Sales Analysis project** provides insights of two-years sales performance of an e-commerce company using interactive visualizations and in-depth analysis of sales data. The goal is to understand key metrics, identify trends, and make data-driven recommendations to optimize sales performance.
 
+![sales dashboard](https://github.com/user-attachments/assets/6310b584-8c61-4dc6-b9cd-42e414033ed6)
+
+
 ### Data Sources
    Sales Data: the primary dataset use for this analysis is the "sales_data.pbix" file, containing detailed information about each sales made by the company.
 
